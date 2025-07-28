@@ -1,0 +1,24 @@
+:root { 
+    
+    --primary-main: #c0a1db; 
+    --primary-dark: #3e345c; 
+    --primary-light: #10b981; 
+    
+    --bg-primary: #2b2b3d; 
+    --bg-secondary: #3B3B4F; 
+    
+    --text-primary: #f03ef7; 
+    --text-secondary: #B9A7A0; 
+    --text-light: #FFFFFF; 
+    
+    --border-color: #5C4A6F; 
+    
+
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.2); 
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.15); 
+}
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
